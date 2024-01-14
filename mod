@@ -5,15 +5,15 @@ getgenv().DitBF = {
         ["Lock FPS"] = 25,
         ["Ultra Optimize"] = false,
     },
-    ["Fast Attack Duration/Cooldown"] = {5, 3},
+    ["Fast Attack Duration/Cooldown"] = {0, 3},
     ["Raid if Maxed Blox Fruit"] = true,
-    ["Farm boss drops while not maxed"] = false,
+    ["Farm boss drops while not maxed"] = true,
     ["Farm Blox Fruit Mastery if maxed"] = true,
     ["Farm method after maxed"] = "Raid Boss Farm - Cake Prince Farm",
     ["Extra time Farm until unlock skills"] = true,
     ["Hop Server"] = {
         ["Type"] = {
-            ["[Main] Server Hop"] = false,
+            ["[Main] Server Hop"] = true,
             ["[Farm] Server Hop if Player nearby"] = false,
             ["[Sea 3 Quest] Server Hop for 1M+ Blox Fruit"] = true,
         },
